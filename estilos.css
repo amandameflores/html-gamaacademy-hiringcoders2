@@ -1,0 +1,44 @@
+
+body {
+    background-color: rgb(26, 27, 27);
+    font: 1em/150% Helvetica, Arial, sans-serif;
+    color: cornsilk;
+}
+
+header {
+  text-align: center;
+}
+
+div.bloco-post{
+    padding: 3em;
+    margin: 2px;
+    float: left;
+	
+  }
+
+  .img-post {
+    width: 500px;
+    height: 600px;
+    
+  }
+
+  #div1 {
+    border: solid 4px rgb(255, 0, 0);
+    
+  }
+
+  #div2 {
+    border: solid 4px rgb(0, 195, 255);
+  
+  }
+
+  #div3 {
+    border: solid 4px rgb(1, 192, 58);
+    
+  }
+
+  #div4 {
+    border: solid 4px rgb(103, 23, 207);
+   
+  }
+
